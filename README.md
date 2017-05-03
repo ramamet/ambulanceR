@@ -5,6 +5,13 @@ map.ambul - Ambulance location and relocation problems
 > the MIT license.*
 :snowflake::snowman:
 
+Background:
+------------
+`London boroughs` are 32 of the 33 local authority districts of the Greater London administrative area (the 33rd is the City of London) and are each governed by a London borough council. `Emergency Medical Services (EMS)`, generally known as ambulance services, provide medical transport and/or out-of-hospital medical care to patients at scenes of incidents
+or to people who are in need. The static ambulance location problem searches for station locations and an allocation
+of a fixed number of ambulances to the stations for a planning horizon. The analytics are applied to a real instance in London city. Various causes of service levels are reflected to investigate how the number of
+incidents and the time evalution at each level affect the quality of EMS service.
+
 Installation :computer::inbox_tray::books:
 ------------
 `ambulanceR` is available through GitHub.
@@ -68,7 +75,7 @@ For example, you can select sheet.numb= N, where N can be taken from ambul.type 
     
 ![ambul](https://cloud.githubusercontent.com/assets/16385390/25645184/02ee11a2-2fac-11e7-9f8a-0f61d7ebffec.png)    
 
-   
+Here you can notice that maximum incident is indicated with blue heartbeat circle and minimum incident is marked with green heartbeat circle for better visualization.    
 
 rawData :hospital::ledger::clipboard:
 -----
