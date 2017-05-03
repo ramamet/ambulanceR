@@ -66,9 +66,9 @@ For example, you can select sheet.numb= N, where N can be taken from ambul.type 
     
     > map.ambul(sheet.numb=3,sel="Jul.2016")
     
-    ![ambul](https://cloud.githubusercontent.com/assets/16385390/25645184/02ee11a2-2fac-11e7-9f8a-0f61d7ebffec.png)
+![ambul](https://cloud.githubusercontent.com/assets/16385390/25645184/02ee11a2-2fac-11e7-9f8a-0f61d7ebffec.png)    
 
-    
+   
 
 rawData :hospital::ledger::clipboard:
 -----
