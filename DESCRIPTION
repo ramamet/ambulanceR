@@ -1,0 +1,27 @@
+Package: ambulanceR
+Title: Ambulance dataset for london
+Version: 0.1
+Authors@R: 'Ramanathan Perumal <ramamet4@gmail.com> [aut,cre]'
+Description: ambulanceR package comes alongwith preprocessed london city dataset.
+  Ambulance Location allocation and Ambulance State Prediction.
+  Emergency Medical Services (EMS), generally known as ambulance services, provide
+  medical transport and/or out-of-hospital medical care to patients at scenes of incidents.
+  Ambulance location and relocation problems are closely related in that both deal with
+  choosing optimal locations for ambulances as a function of the demand of the system.
+URL: https://github.com/ramamet/ambulanceR
+BugReports: https://github.com/ramamet/ambulanceR/issues
+Depends:
+    R (>= 3.3.0)
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Imports:
+    dplyr,
+    magrittr,
+    readxl,
+    leaflet,
+    leaflet.extras
+RoxygenNote: 5.0.1
+Suggests: knitr,
+    rmarkdown
+VignetteBuilder: knitr
