@@ -12,7 +12,7 @@ Installation :computer::inbox_tray::books:
 To install the latest version from GitHub:
 
     install.packages("devtools")
-    library(dev.tools)
+    library(devtools)
     devtools::install_github("ramamet/ambulanceR")
     
 
