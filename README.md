@@ -64,7 +64,9 @@ Available months in the main dataset,
 Default plot,
 For example, you can select sheet.numb= N, where N can be taken from ambul.type (incidents) dataset and sel= "Month" where Month can be chosen from the collected series, 
     
-    > map.ambul(sheet.numb=3,sel="Dec.2015")    
+    > map.ambul(sheet.numb=3,sel="Jul.2016")
+    
+    ![ambul](https://cloud.githubusercontent.com/assets/16385390/25645184/02ee11a2-2fac-11e7-9f8a-0f61d7ebffec.png)
 
     
 
