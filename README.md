@@ -1,4 +1,4 @@
-map.ambul - Ambulance location and relocation problems
+ambulanceR - Ambulance location and relocation problems
 ===========================================================================
 
 > *Copyright 2017 [Ramanathan Perumal](http://github.com/ramamet). Licensed under
